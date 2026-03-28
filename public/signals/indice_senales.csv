@@ -1,0 +1,225 @@
+pagina_pdf,archivo,etiqueta_ocr
+2,p02_no_avanzar_r1.png,No Avanzar R1
+2,p02_contramano_r2.png,Contramano R2
+2,p02_prohibicion_de_circular_autos_r3.png,Prohibición de Circular (Autos) R3
+2,p02_prohibicion_de_circular_motos_r3.png,Prohibición de Circular (Motos) R3
+2,p02_prohibicion_de_circular_bicicletas_r3_ens.png,Prohibición de Circular (Bicicletas) R3 ENS
+2,p02_prohibicion_de_circular_camion_r3_ion.png,Prohibición de Circular (Camión) R3 ION
+2,p02_prohibicion_de_circular_acoplado_r3_ies.png,Prohibición de Circular (Acoplado) R3 IES
+2,p02_prohibicion_de_circular_peaton_r3.png,Prohibición de Circular (Peatón) R3
+2,p02_prohibicion_de_circular_traccion_animal_r3.png,Prohibición de Circular (Tracción animal) R3
+2,p02_prohibicion_de_circular_animal_r3.png,Prohibición de Circular (Animal) R3
+2,p02_prohibicion_de_circular_carro_de_mano_r3.png,Prohibición de Circular (Carro de mano) R3
+2,p02_prohibicion_de_circular_tractor_r3.png,Prohibición de Circular (Tractor) R3
+2,p02_no_girar_a_la_izquierda.png,No Girar a la Izquierda
+2,p02_no_girar_a_la_derecha_r4.png,No Girar a la Derecha R4
+2,p02_no_girar_en_u_no_retomar_r5.png,No Girar en U (no retomar) R5
+2,p02_prohibido_adelantar_r6.png,Prohibido Adelantar R6
+2,p02_no_ruidos_molestos_r7.png,No Ruidos Molestos R7
+2,p02_no_estacionar_r8.png,No Estacionar R8
+2,p02_no_estacionar_ni_detenerse_r9.png,No Estacionar ni Detenerse R9
+2,p02_prohibicion_de_cambiar_de_carril_r10.png,Prohibición de Cambiar de Carril R10
+3,p03_limitacion_de_peso_r11.png,Limitación de Peso R11
+3,p03_limitacion_de_peso_por_eje_r11.png,Limitación de Peso por Eje R11
+3,p03_limitacion_de_altura_r12.png,Limitación de Altura R12
+3,p03_limitacion_de_ancho_r_13.png,Limitación de Ancho R 13
+3,p03_limitacion_de_largo_r14.png,Limitación de Largo R14
+3,p03_limite_de_velocidad_maxima_r15.png,Límite de Velocidad Máxima R15
+3,p03_limite_de_velocidad_minima_r16.png,Límite de Velocidad Mínima R16
+3,p03_estacionamiento_exclusivo_r17.png,Estacionamiento Exclusivo R17
+3,p03_circulacion_exclusiva_transporte_publico_r18.png,Circulación Exclusiva (Transporte Público) R18
+3,p03_circulacion_exclusiva_motos_r18.png,Circulación Exclusiva (Motos) R18
+3,p03_circulacion_exclusiva_bicicleta_r18.png,Circulación Exclusiva (Bicicleta) R18
+3,p03_circulacion_exclusiva_inetes_r_18.png,Circulación Exclusiva (inetes) R 18
+4,p04_circulacion_exclusiva_peatones_r_18.png,Circulación Exclusiva (Peatones) R 18
+4,p04_uso_de_cadenas_para_nieve_r19.png,Uso de Cadenas para Nieve R19
+4,p04_giro_obligatorio_derecha_r_20_fun.png,Giro Obligatorio (Derecha) R 20 FUN
+4,p04_giro_obligatorio_izquierda_r20.png,Giro Obligatorio (Izquierda) R20
+4,p04_sentido_de_circulacion_derecha_r21_pa.png,Sentido de Circulación (Derecha) R21 Pa |
+4,p04_sentido_de_circulacion_izquierda_r21.png,Sentido de Circulación (Izquierda) R21
+4,p04_sentido_de_circulacion_comienzo_sentido_unico_r21.png,Sentido de Circulación (Comienzo Sentido Unico) R21
+4,p04_sentido_de_circulacion_alternativa_r21_y.png,Sentido de Circulación (Alternativa) R21 y —~
+4,p04_paso_obligado_derecha_r22_fons.png,Paso Obligado (Derecha) R22 FONS
+4,p04_paso_obligado_izquierda_r_22.png,Paso Obligado (Izquierda) R 22
+4,p04_transito_pesado_a_la_derecha_r_23.png,Tránsito Pesado a la Derecha R 23
+4,p04_peatones_por_la_izquierda_r_24.png,Peatones por la Izquierda R 24
+4,p04_puesto_de_control_r25.png,Puesto de Control R25
+4,p04_comienzo_de_doble_mano_r26.png,Comienzo de Doble Mano R26
+4,p04_transitar_con_luces_bajas_encendidas_ley_no25456.png,Transitar con Luces Bajas Encendidas Ley N°25456
+5,p05_pare_r27.png,Pare R27
+5,p05_ceda_el_paso_r_28.png,Ceda el Paso R 28
+5,p05_preferencia_de_avance_r29.png,Preferencia de Avance R29
+5,p05_barreras_ferroviarias_r30.png,Barreras Ferroviarias R30
+5,p05_fin_de_la_prescripcion_r32.png,Fin de la Prescripción R32
+6,p06_cruce_ferroviario_p1.png,Cruce Ferroviario P1
+6,p06_paneles_de_prevencion_f_aprox_p2.png,Paneles de Prevención f {aprox.) P2
+6,p06_paneles_de_prevencion_obstaculo_rigido_p2.png,Paneles de Prevención (obstáculo rígido) P2
+6,p06_laa_paneles_de_prevencion_curva_p2.png,LAA | Paneles de Prevención (curva) P2
+6,p06_paneles_de_prevencion_curva_p2.png,Paneles de Prevención (Curva) P2
+6,p06_cruz_de_san_andres_p3.png,Cruz de San Andrés P3
+6,p06_cruz_de_san_andres_p3_2.png,Cruz de San Andrés P3
+6,p06_curva_cerrada.png,Curva Cerrada
+6,p06_cruce_de_peatones.png,Cruce de Peatones
+6,p06_atencion_p6.png,Atención P6
+7,p07_escolares_p25.png,Escolares P25
+7,p07_ninos_p25.png,Niños P25
+7,p07_ciclistas_p26.png,Ciclistas P26
+7,p07_jinetes_p_26.png,Jinetes P 26
+7,p07_animales_sueltos_vaca_p27.png,Animales Sueltos (Vaca) P27
+7,p07_animales_sueltos_ciervo_p27.png,Animales Sueltos (Ciervo) P27
+7,p07_corredor_aereo_p_28.png,Corredor Aéreo P 28
+7,p07_presencia_de_vehiculo_extrano_tranvia_p29.png,Presencia de Vehículo Extraño (Tranvía) P29
+7,p07_presencia_de_vehiculo_extrano_tractor_p29.png,Presencia de Vehículo Extraño (Tractor) P29
+7,p07_presencia_de_vehiculo_extrano_ambulancia_p29.png,Presencia de Vehículo Extraño (Ambulancia) P29
+7,p07_vientos_fuertes_laterales_p_30.png,Vientos Fuertes Laterales P 30
+8,p08_puente_movil_p17.png,Puente Móvil P17
+8,p08_altura_limitada_p_18.png,Altura Limitada P 18
+8,p08_ancho_limitado_p19.png,Ancho Limitado P19
+8,p08_calzada_dividida_p20.png,Calzada Dividida P20
+8,p08_rotonda_p21.png,Rotonda P21
+8,p08_incorporacion_de_transito_lateral_p22.png,Incorporación de Tránsito Lateral P22
+8,p08_inicio_de_doble_circulacion_p_23.png,Inicio de Doble Circulación P 23
+8,p08_encrucijada_cruce_p24.png,Encrucijada (Cruce) P24
+8,p08_encrucijada_empalme_p24.png,Encrucijada (Empalme) P24
+8,p08_encrucijada_bifurcacion_p24.png,Encrucijada (Bifurcación) P24
+8,p08_encrucijada_bifurcacion_alternativa_p24.png,Encrucijada (Bifurcación Alternativa) P24
+9,p09_curva_comun_p7.png,Curva (Común) P7
+9,p09_curva_contracurva_p7.png,Curva (Contracurva) P7
+9,p09_curva_en_s_p7.png,"Curva (en ""S”) P7"
+9,p09_camino_sinuoso_p8.png,Camino Sinuoso P8
+9,p09_pendiente_descendente_p9.png,Pendiente (Descendente) P9
+9,p09_pendiente_ascendente.png,Pendiente (Ascendente)
+9,p09_estrechamiento_en_las_dos_manos_p10.png,Estrechamiento (En las dos manos) P10
+9,p09_estrechamiento_en_una_sola_mano_p10.png,Estrechamiento (En una sola mano) P10
+9,p09_perfil_irregular_irregular_pit_i.png,Perfil Irregular (Irregular) Pit I~
+9,p09_perfil_irregular_baden_p11.png,Perfil (Irregular Badén) P11
+9,p09_perfil_irregular_lomada_p11.png,Perfil Irregular (Lomada) P11
+9,p09_calzada_resbaladiza_p12.png,Calzada Resbaladiza P12
+9,p09_proyeccion_de_piedras_p13.png,Proyección de Piedras P13
+9,p09_derrumbes_p14.png,Derrumbes P14
+9,p09_tunel_p15.png,Túnel P15
+9,p09_puente_angosto_p16.png,Puente Angosto P16
+10,p10_flecha_direccional_p31.png,Flecha Direccional P31
+10,p10_proximidad_de_semaforo_p32.png,Proximidad de Semáforo P32
+10,p10_proximidad_de_senal_restrictiva_pare_p33.png,Proximidad de Señal Restrictiva (Pare) P33
+10,p10_proximidad_de_senal_restrictiva_paso_p33.png,Proximidad de Señal Restrictiva (Paso) P33
+10,p10_proximidad_de_senal_restrictiva_otras_p33.png,Proximidad de Señal Restrictiva (Otras) P33
+10,p10_vs_fin_de_prevencion_p34.png,VS Fin de Prevención P34
+11,p11_ruta_panamericana_a_san_marti.png,Ruta Panamericana a | * San Marti
+11,p11_ruta_nacional_12_gan_martin.png,Ruta Nacional 12 | Gan Martín |
+11,p11_ruta_provincial_13_on.png,Ruta Provincial 13 On |
+11,p11_nomenclatura_urbana_14.png,Nomenclatura Urbana 14
+11,p11_nomenclatura_urbana_14_2.png,Nomenclatura Urbana 14
+11,p11_identificacion_de_region_y_localidades_15.png,Identificación de Región y Localidades. 15
+11,p11_orientacion_en_caminos_primarios_y_secundarios_16.png,Orientación (En Caminos Primarios y Secundarios) 16
+11,p11_san_isidro_orientacion_en_caminos_secundarios_7.png,SAN ISIDRO > Orientación (En Caminos Secundarios) (7
+11,p11_comienzo_o_fin_de_zona_urbana_18_a.png,Comienzo o Fin de Zona Urbana 18 A |
+11,p11_identificacion_de_jurisdiccion_o_acceso_geografico_19.png,Identificación de Jurisdicción O Acceso Geográfico 19
+11,p11_nomenclatura_de_autopista_111.png,Nomenclatura de Autopista 111
+12,p12_comienzo_de_autopista_112.png,Comienzo de Autopista 112
+12,p12_fin_de_autopista_113.png,Fin de Autopista 113
+12,p12_indicadora_de_utilizacion_de_carriles_114.png,Indicadora de Utilización de Carriles 114
+12,p12_camino_sin_s_11.png,Camino Sin S: 11
+12,p12_10_o_calle_salida_115.png,10 O Calle Salida 115
+12,p12_camino_o_transitak_116.png,Camino o | Transitak 116
+12,p12_ino_o_paso_ansitable_116.png,ino o Paso ansitable 116
+12,p12_velocidades_maximas_permitidas_117.png,Velocidades Máximas Permitidas 117
+12,p12_esquema_de_recorrido_118.png,Esquema de Recorrido 118
+12,p12_desvio_por_cambio_de_sentido_de_circulacion_119.png,Desvío por cambio de Sentido de Circulación 119
+13,p13_estacionamiento_permitido_120.png,Estacionamiento Permitido 120
+13,p13_permitido_girar_derecha_121.png,Permitido Girar (Derecha) 121
+13,p13_permitido_girar_izquierda_121.png,Permitido Girar (Izquierda) 121
+13,p13_direcciones_permitidas_derecha_122.png,Direcciones Permitidas (Derecha) 122
+13,p13_direcciones_permitidas_izquierda_122.png,Direcciones Permitidas (Izquierda) 122
+13,p13_direcciones_permitidas_igual_sentido_o_izquierda_122.png,Direcciones Permitidas (Igual Sentido o Izquierda) 122
+13,p13_direcciones_permitidas_igual_sentido_o_derecha_122.png,Direcciones Permitidas (Igual Sentido o Derecha) 122
+13,p13_direcciones_permitidas_ambas_direcciones_122.png,Direcciones Permitidas (Ambas Direcciones) 122
+13,p13_direcciones_permitidas_bifurcacion_122.png,Direcciones Permitidas (Bifurcación) 122
+14,p14_nm.png,nm
+14,p14_pagina_14_item_2.png,pagina_14_item_2
+14,p14_3.png,3]
+14,p14_ul.png,ul
+14,p14_el.png,[el
+14,p14_a.png,[A]
+14,p14_m.png,m
+14,p14_py.png,py
+14,p14_la.png,la]
+14,p14_fa.png,fa
+14,p14_lal.png,lal
+14,p14_lal_2.png,lal
+14,p14_pagina_14_item_3.png,pagina_14_item_3
+14,p14_ol.png,[ol
+14,p14_pagina_14_item_5.png,pagina_14_item_5
+14,p14_e.png,E |
+14,p14_cal.png,(cal
+14,p14_e_2.png,E
+14,p14_pagina_14_item_4.png,pagina_14_item_4
+14,p14_e_3.png,E]
+14,p14_pagina_14_item_1.png,pagina_14_item_1
+14,p14_pagina_14_item_2_2.png,pagina_14_item_2
+14,p14_pagina_14_item_3_2.png,pagina_14_item_3
+14,p14_pagina_14_item_4_2.png,pagina_14_item_4
+14,p14_pagina_14_item_5_2.png,pagina_14_item_5
+15,p15_h1_linea_de_separacion_de_sentido_de_circulacion_linea_individual_continua.png,H1 Línea de separación de sentido de circulación Línea individual continua
+15,p15_h1_linea_de_separacion_de_sentido_de_circulacien_lineas_divisorias_paralelas_continuas.png,H1 Linea de separación de sentido de circulacién Lineas divisorias paralelas continuas
+15,p15_h1_linea_de_separacion_de_sentido_de_circulacion_linea_divisoria_continua_paralela_a_otra_discontinua.png,H1 Línea de separación de sentido de circulación Línea divisoria continua paralela a otra discontinua
+15,p15_h1_linea_de_separacion_de_sentido_de_circulacion_lineas_divisorias_paralelas_discontinuas_para_carriles_revers.png,H1 Linea de separación de sentido de circulación Líneas divisorias paralelas discontinuas para carriles reversibles
+15,p15_h2_linea_de_carril_linea_continua_divisoria_de_corrientes_del_mismo_sentido.png,H2 Línea de carril Línea continua divisoria de corrientes del mismo sentido
+15,p15_h2_linea_de_carril_linea_discontinua_divisoria_de_corrientes_del_mismo_sentido.png,H2 Línea de carril Línea discontinua divisoria de corrientes del mismo sentido
+16,p16_day.png,day
+16,p16_h2_lineas_de_carril_exclusivo_doble_linea_continua.png,H2 Lineas de carril exclusivo Doble línea continua
+16,p16_h2_linea_de_carril_preferencial_linea_de_carril_de_mayor_ancho.png,H2 Línea de carril preferencial Línea de carril de mayor ancho
+16,p16_h2_linea_de_carril_preferencial_linea_de_carril_de_mayor_ancho_2.png,H2 Línea de carril preferencial Línea de carril de mayor ancho
+16,p16_h3_linea_de_borde_de_calzada_linea_continua_poe.png,H3 Línea de borde de calzada Linea continua Poe = «(=|
+16,p16_h4_marcas_transversales_linea_de_detencion.png,H4 Marcas transversales Línea de detención
+16,p16_h5_senda_peatonal_e.png,H5 Senda peatonal E «(=|
+16,p16_h5_senda_peatonal_cebrado_eas.png,H5 Senda peatonal (cebrado) EAS
+16,p16_h6_senda_para_ciclistas.png,H6 Senda para ciclistas
+16,p16_h6_senda_para_ciclistas_cebrado.png,H6 Senda para ciclistas (cebrado)
+17,p17_h7_lineas_auxiliares_para_reduccion_de_velocidad.png,H7 Líneas auxiliares para reducción de velocidad
+17,p17_h8_marcas_especiales_marcas_canalizadoras_de_transito_e_isletas.png,H8 Marcas especiales Marcas canalizadoras de tránsito (e isletas)
+17,p17_h9_flecha_simple.png,H9 Flecha simple
+17,p17_h9_flecha_curvada_ras.png,H9 Flecha curvada RAS |
+17,p17_h9_flecha_combinada.png,H9 Flecha combinada
+17,p17_h10_pare.png,H10 Pare
+17,p17_h11_estacionamiento_paralelo.png,H11 Estacionamiento (Paralelo)
+17,p17_h11_estacionamiento_90o.png,H11 Estacionamiento (90°)
+18,p18_h12_inscripciones.png,H12 Inscripciones
+18,p18_h13_cruce_ferroviario.png,H13 Cruce ferroviario
+18,p18_h14_separador_de_transito.png,H14 Separador de tránsito
+18,p18_h15_cordones_pintados_a.png,H15 Cordones pintados A.
+18,p18_h16_tachas.png,H16 Tachas
+18,p18_h17_delineadores_conos.png,H17 Delineadores (Conos)
+18,p18_h18_para_niebla_e_a_aaa.png,H18 Para niebla E a aaa
+19,p19_semaforo_con_visera.png,Semáforo con visera
+19,p19_semaforo_sin_visera.png,Semáforo sin visera
+19,p19_semaforo_de_gran_seccion_roja_con_visera.png,Semáforo de gran sección roja con visera
+19,p19_semaforo_de_gran_seccion_roja_sin_visera.png,Semáforo de gran sección roja sin visera
+19,p19_flecha_vertical_para_seguir_al_frente.png,"Flecha vertical para seguir al frente —=>—,"
+19,p19_flecha_horiz_seguir_a_la_izqui.png,Flecha horiz seguir a la izqui _
+19,p19_ontal_para_rda_o_derecha.png,ontal para rda o derecha
+19,p19_semaforos_especiales_para_peatones.png,Semáforos especiales Para peatones
+19,p19_semaforos_especiales_intermitentes.png,Semáforos especiales Intermitentes
+19,p19_semaforos_especiales_para_cruce_ferrovial.png,Semáforos especiales Para cruce ferrovial
+19,p19_semaforos_especiales_para_carriles_reversibles.png,Semáforos especiales Para carriles reversibles
+20,p20_calle_o_carretera_en_construccion_o_cerrada_t1.png,Calle o Carretera en Construcción o Cerrada T1
+20,p20_desvio_t2.png,Desvío T2
+20,p20_carretera_de_un_solo_carril_713_y.png,Carretera de un solo Carril 713 y
+20,p20_estrechamiento_de_calzada_t4_y.png,Estrechamiento de Calzada T4 y
+20,p20_banderillero.png,Banderillero
+20,p20_hombres_trabajando_t6.png,Hombres Trabajando T6
+20,p20_equipo_pesado_en_la_via_t7.png,Equipo Pesado en la Vía T7
+20,p20_trabajos_en_la_banquina_t8.png,Trabajos en la Banquina T8
+21,p21_zona_de_explosivos_t9.png,Zona de Explosivos T9
+21,p21_longitud_de_la_construccion_t10.png,Longitud de la Construcción T10
+21,p21_fin_de_construccion_t11.png,Fin de Construcción T11
+22,p22_pagina_22_item_1.png,pagina_22_item_1
+22,p22_tamharac.png,Tamharac
+22,p22_pagina_22_item_3.png,pagina_22_item_3
+22,p22_conos.png,Conos
+22,p22_tambores.png,Tambores
+22,p22_delineadores.png,Delineadores
+22,p22_ma.png,MÁ
+22,p22_a.png,A.
+22,p22_muro_jer.png,Muro Jer
+22,p22_y.png,y

@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 48 33% 97%;
+    --foreground: 240 10% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 15%;
+    --border: 44 16% 82%;
+    --muted: 45 25% 92%;
+    --muted-foreground: 240 5% 39%;
+    --primary: 45 100% 58%;
+    --primary-foreground: 240 10% 12%;
+    --radius: 1.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    background-image:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0.5)),
+      linear-gradient(135deg, rgba(255, 199, 44, 0.16), rgba(255, 199, 44, 0.04) 38%, transparent 62%),
+      linear-gradient(180deg, rgba(82, 82, 91, 0.06), rgba(82, 82, 91, 0.1)),
+      url("/images/bg-hero.png");
+    background-position: center, top left, center, center;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: auto, auto, auto, cover;
+    background-attachment: fixed;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  #root {
+    min-height: 100vh;
+  }
+
+  ::selection {
+    background: rgba(255, 199, 44, 0.35);
+  }
+}
+
+@layer components {
+  .media-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 0.4rem;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.18);
+    outline: none;
+    cursor: pointer;
+  }
+
+  .media-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 9999px;
+    background: rgb(250 204 21);
+    border: 2px solid rgb(24 24 27);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  }
+
+  .media-slider::-moz-range-thumb {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 9999px;
+    background: rgb(250 204 21);
+    border: 2px solid rgb(24 24 27);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  }
+
+  .media-slider::-moz-range-track {
+    height: 0.4rem;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.18);
+  }
+
+  .course-docx {
+    color: rgb(39 39 42);
+    line-height: 1.8;
+    font-size: 0.95rem;
+  }
+
+  .course-docx > * + * {
+    margin-top: 1rem;
+  }
+
+  .course-docx h1,
+  .course-docx h2,
+  .course-docx h3,
+  .course-docx h4 {
+    color: rgb(24 24 27);
+    font-weight: 700;
+    line-height: 1.25;
+    margin-top: 1.75rem;
+  }
+
+  .course-docx h1 {
+    font-size: 2rem;
+  }
+
+  .course-docx h2 {
+    font-size: 1.5rem;
+  }
+
+  .course-docx h3 {
+    font-size: 1.25rem;
+  }
+
+  .course-docx p,
+  .course-docx li {
+    font-size: 1rem;
+  }
+
+  .course-docx img,
+  .course-docx svg {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .course-docx ul,
+  .course-docx ol {
+    margin-left: 1.5rem;
+  }
+
+  .course-docx ul {
+    list-style: disc;
+  }
+
+  .course-docx ol {
+    list-style: decimal;
+  }
+
+  .course-docx table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 1rem;
+    border: 1px solid rgb(228 228 231);
+  }
+
+  .course-docx th,
+  .course-docx td {
+    border: 1px solid rgb(228 228 231);
+    padding: 0.75rem 0.875rem;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  @media (max-width: 768px) {
+    .course-docx {
+      font-size: 0.92rem;
+      line-height: 1.75;
+    }
+
+    .course-docx h1 {
+      font-size: 1.6rem;
+    }
+
+    .course-docx h2 {
+      font-size: 1.28rem;
+    }
+
+    .course-docx h3 {
+      font-size: 1.12rem;
+    }
+
+    .course-docx p,
+    .course-docx li,
+    .course-docx td,
+    .course-docx th {
+      font-size: 0.95rem;
+    }
+  }
+}

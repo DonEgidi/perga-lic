@@ -1,0 +1,9 @@
+services:
+  micrositio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: micrositio-licencias
+    ports:
+      - "8080:80"
+    restart: unless-stopped

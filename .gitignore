@@ -1,0 +1,4 @@
+node_modules/
+dist/
+public/course/**/*.mp4
+public/course/**/*.m4a
